@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                
+                    xmlns:local="clr-namespace:TaskManager.MyRes">
+
+
+
+    <Style x:Key="RegTextBlock">
+        <Style.Triggers>
+            <Trigger Property="TextBlock.IsMouseOver" Value="True">
+                <Setter Property="TextBlock.Foreground" Value="#FF32EBFB"/>
+                </Trigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>

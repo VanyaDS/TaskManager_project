@@ -1,0 +1,174 @@
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\App.g.cs
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkBlue.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\App.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\Authorization.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\Authorization.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\Registration.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\Registration.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\TaskManager\obj\Debug\MyRes\SomeElementChanges.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkBlue.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Registration.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Authorization.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\App.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\App.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\MyRes\SomeElementChanges.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Registration.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Authorization.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskCreation.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\TaskCreation.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkOrange.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\Themes\DarkOrange.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkBlue.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkOrange.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Themes\DarkOrange.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Registration.g.cs
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Authorization.g.cs
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskCreation.g.cs
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.g.cs
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\App.g.cs
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\App.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\MyRes\SomeElementChanges.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Registration.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Authorization.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskCreation.baml
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Lab13.g.cs
+d:\Учёба\2 курс\4 сем\ООП\lab13\TaskManager\TaskManager\obj\Debug\Lab13.baml
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\AvatarComplete.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\AvatarComplete.baml
+d:\Учёба\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+d:\Учёба\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+d:\Учёба\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+d:\Учёба\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+d:\Учёба\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+d:\Учёба\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+d:\Учёба\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkBlue.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkOrange.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Themes\DarkOrange.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\AvatarComplete.g.cs
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Registration.g.cs
+d:\Учёба\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Authorization.g.cs
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskCreation.g.cs
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.g.cs
+d:\Учёба\TaskManager\TaskManager\obj\Debug\App.g.cs
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+d:\Учёба\TaskManager\TaskManager\obj\Debug\App.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\AvatarComplete.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\MyRes\SomeElementChanges.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Registration.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\Authorization.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskCreation.baml
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+d:\Учёба\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\AdminWindow.g.cs
+d:\Учёба\2 курс\4 сем\ООП\Курсач\Курсовой проект\TaskManager\TaskManager\obj\Debug\AdminWindow.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\bin\Debug\EntityFramework.dll
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.dll
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\bin\Debug\EntityFramework.xml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\bin\Debug\EntityFramework.SqlServer.xml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkBlue.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Themes\BrushesForDarkOrange.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Themes\DarkOrange.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\AvatarComplete.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\AdminWindow.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Registration.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\MainWindow.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Authorization.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskCreation.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Themes\DarkBlue.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\App.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager_Content.g.cs
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.cache
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager_MarkupCompile.lref
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\App.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\AvatarComplete.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\AdminWindow.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\MyRes\SomeElementChanges.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Registration.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\MainWindow.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\Authorization.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskCreation.baml
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager.g.resources
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+d:\Учёба\2 курс\4 сем\Курсовой\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache

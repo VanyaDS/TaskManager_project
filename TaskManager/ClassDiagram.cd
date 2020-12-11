@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TaskManager.AdminWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAARAAIAAAAEAAAAEAAAAwAAAQAAAAAAAAAAAAQIAA=</HashCode>
+      <FileName>AdminWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TaskManager.App" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.Authorization" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABIAAQCAQAQBAAAAAAIAAAgAAAAAABAAAAAQAARgiA=</HashCode>
+      <FileName>Authorization.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TaskManager.AvatarComplete" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>AvatarComplete.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TaskManager.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IsYARAAIAAAAEIgAAEAAAgyABAAAAAIAAAAAAAARIAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TaskManager.Registration" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAACgAAABAAMAAAsAgAgAAAAAABAAAQAQAAAggg=</HashCode>
+      <FileName>Registration.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TaskManager.TaskCreation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAAAAAAEAAAAAAgAAAAAgACAAAAQAAAQgAA=</HashCode>
+      <FileName>TaskCreation.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TaskManager.myDB.K_ProjectEntities" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAIAACAAAAAhAAAAAAACQQAAEAgEAAAAAAAIEAAAAAA=</HashCode>
+      <FileName>myDB\taskDB.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.myDB.Admin" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>myDB\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.myDB.Log_in" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>myDB\Log_in.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.myDB.sp_helpdiagramdefinition_Result" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>myDB\sp_helpdiagramdefinition_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.myDB.sp_helpdiagrams_Result" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAEAAiAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>myDB\sp_helpdiagrams_Result.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.myDB.sysdiagram" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAAAAAAAAAAAAAQAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>myDB\sysdiagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.myDB.Task" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAQAQAAAAAAAAAAAAAAAAAIAAAAAAIAAEEEAA=</HashCode>
+      <FileName>myDB\Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.myDB.User" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAQAAAAAAEgAAAAAgEAAAAAAAIAgAAEAA=</HashCode>
+      <FileName>myDB\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.myDB.UserSetting" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAABAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>myDB\UserSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.Patterns.SqlLog_inRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAACAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Patterns\SqlLog_inRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TaskManager.Patterns.SqlSettingsRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAACAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Patterns\SqlSettingsRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TaskManager.Patterns.SqlTaskReoisitory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAACAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Patterns\SqlTaskReoisitory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="TaskManager.Patterns.SqlUserRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAACAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Patterns\SqlUserRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.229" />
+  </Class>
+  <Class Name="TaskManager.Patterns.UnitOfWork" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAKCAACAQAQAAAAAAAAARAAAAAAAAgAAIAIAAAAA=</HashCode>
+      <FileName>Patterns\UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="log_inRepository" />
+      <Field Name="settingsRepository" />
+      <Field Name="taskReoisitory" />
+      <Field Name="userRepository" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TaskManager.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.Properties.Settings" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TaskManager.Patterns.IRepository&lt;T&gt;" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Patterns\SqlUserRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
